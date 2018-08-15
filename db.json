@@ -1,0 +1,24 @@
+{
+  "product" : [
+    [{"id":1,"name":"African jacana","category":"Khaki"},
+    {"id":2,"name":"Tinamou, elegant crested","category":"Mauv"},
+    {"id":3,"name":"White-winged tern","category":"Orange"},
+    {"id":4,"name":"Lechwe, kafue flats","category":"Purple"},
+    {"id":5,"name":"Weaver, chestnut","category":"Mauv"},
+    {"id":6,"name":"Australian brush turkey","category":"Khaki"},
+    {"id":7,"name":"Antelope, sable","category":"Khaki"},
+    {"id":8,"name":"Zebra, plains","category":"Red"},
+    {"id":9,"name":"Oriental short-clawed otter","category":"Khaki"},
+    {"id":10,"name":"Tammar wallaby","category":"Blue"},
+    {"id":11,"name":"Turtle, eastern box","category":"Khaki"},
+    {"id":12,"name":"Pygmy possum","category":"Violet"},
+    {"id":13,"name":"Australian pelican","category":"Blue"},
+    {"id":14,"name":"Blue-tongued skink","category":"Purple"},
+    {"id":15,"name":"Turtle (unidentified)","category":"Crimson"},
+    {"id":16,"name":"Golden brush-tailed possum","category":"Goldenrod"},
+    {"id":17,"name":"Silver-backed jackal","category":"Pink"},
+    {"id":18,"name":"Hawk-headed parrot","category":"Purple"},
+    {"id":19,"name":"Pallas's fish eagle","category":"Indigo"},
+    {"id":20,"name":"Devil, tasmanian","category":"Maroon"}
+  ]
+ }
