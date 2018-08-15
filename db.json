@@ -1,6 +1,6 @@
 {
   "product" : [
-    [{"id":1,"name":"African jacana","category":"Khaki"},
+    {"id":1,"name":"African jacana","category":"Khaki"},
     {"id":2,"name":"Tinamou, elegant crested","category":"Mauv"},
     {"id":3,"name":"White-winged tern","category":"Orange"},
     {"id":4,"name":"Lechwe, kafue flats","category":"Purple"},
