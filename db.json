@@ -22,7 +22,9 @@
     {"id":19,"name":"Pallas's fish eagle","category":"Indigo"},
     {"id":20,"name":"Devil, tasmanian","category":"Maroon"}
   ]
-  
+}
+
+{
   "blog": 
   [
     {"id":1,"name":"African jacana","category":"Khaki"},
